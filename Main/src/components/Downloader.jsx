@@ -46,7 +46,7 @@ const Downloader = ({ user }) => {
           method: "GET",
           headers: {
             "x-rapidapi-key":
-              "a1b8572ee4mshd914815a3a66262p1c19b7jsn7cc697fc3873",
+              "",
             "x-rapidapi-host":
               "instagram-downloader-download-instagram-stories-videos4.p.rapidapi.com",
           },
